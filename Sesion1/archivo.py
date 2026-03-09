@@ -64,3 +64,5 @@ modulo = input("Que modulo estas dando?\n")
 alumnos = int(input("Cuantos alumnos hay conectados?\n"))
 
 print(f"Estás cursando el ciclo de {ciclo}, estás en clase de {modulo} y hay {alumnos} alumnos conectados")
+
+
